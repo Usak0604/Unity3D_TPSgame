@@ -7,41 +7,65 @@ Direct3D:
     VRAM:     1136 MB
     Driver:   10.18.15.4248
 Begin MonoManager ReloadAssembly
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading D:\unity project\Practice01_170114\Exe_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading D:\unity project\Practice01_170114\Exe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading D:\unity project\Practice01_170114\Exe_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.446 seconds
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: D:\unity project\Practice01_170114\Exe_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.149 seconds
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\unity project\Unity3D_TPSgame\Exe_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 41.108501 ms
+UnloadTime: 3.860959 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 1fe8 -> priority: 1 
+  Thread -> id: afc -> priority: 1 
 Click Button
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 9.216192 ms
+UnloadTime: 10.877703 ms
 
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 589.
-Total: 0.630915 ms (FindLiveObjects: 0.054337 ms CreateObjectMapping: 0.033809 ms MarkObjects: 0.389416 ms  DeleteObjects: 0.152144 ms)
+Total: 0.528278 ms (FindLiveObjects: 0.044073 ms CreateObjectMapping: 0.030791 ms MarkObjects: 0.315759 ms  DeleteObjects: 0.137050 ms)
 
 Player HP = 90
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player HP = 80
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player HP = 70
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player HP = 60
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player HP = 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player HP = 40
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player HP = 30
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
