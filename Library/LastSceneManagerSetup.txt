@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/unity project/Prototype170313/Assets/01.Scenes/BackupScene.unity
+  isLoaded: 1
+  isActive: 1
